@@ -1,0 +1,23 @@
+{
+  "name": "desafio-ci-sonar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitoraa/desafio-ci-sonar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitoraa/desafio-ci-sonar/issues"
+  },
+  "homepage": "https://github.com/vitoraa/desafio-ci-sonar#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
