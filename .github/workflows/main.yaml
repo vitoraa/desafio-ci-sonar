@@ -1,4 +1,4 @@
-name: CI
+name: CI - SonarQube
 
 on:
   pull_request:
