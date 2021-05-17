@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\Users\vitor\projects\desafio-ci-sonar\src\index.test.js">
+    <testCase name="adds 1 + 2 to equal 3" duration="4"/>
+    <testCase name="multiply 4 * 5 to equal 20" duration="0"/>
+  </file>
+</testExecutions>
